@@ -14,7 +14,6 @@
         <module name="order-service" />
         <module name="user-service" />
         <module name="eureka-server" />
-        <module name="gcu-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +22,7 @@
       <module name="gatewary.main" target="17" />
       <module name="gatewary.test" target="17" />
       <module name="gateway" target="17" />
+      <module name="gcu-test" target="17" />
       <module name="gcu.backend.gatewary.main" target="17" />
     </bytecodeTargetLevel>
   </component>

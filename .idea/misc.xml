@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/calculator" />
     <file type="web" url="file://$PROJECT_DIR$/gateway" />
     <file type="web" url="file://$PROJECT_DIR$/zull-server" />
   </component>
@@ -13,21 +14,22 @@
         <option value="$PROJECT_DIR$/order-service/pom.xml" />
         <option value="$PROJECT_DIR$/product-service/pom.xml" />
         <option value="$PROJECT_DIR$/user-service/pom.xml" />
-        <option value="$USER_HOME$/Desktop/gcu-msa/gcu-msa/gcu-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/gcu-msa/gcu-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/delivery-service/pom.xml" />
-        <option value="$USER_HOME$/Desktop/gcu-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../gcu-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/gcu-gateway/pom.xml" />
-        <option value="$USER_HOME$/Desktop/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../employee-service/pom.xml" />
         <option value="$PROJECT_DIR$/delivery--service/pom.xml" />
         <option value="$PROJECT_DIR$/gcu-test/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$USER_HOME$/Desktop/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../employee-service/pom.xml" />
         <option value="$PROJECT_DIR$/delivery-service/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/gcu-test/pom.xml" />
       </set>
     </option>
   </component>

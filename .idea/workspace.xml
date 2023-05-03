@@ -4,13 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdcfda41-0726-4da8-9f58-25593d085e84" name="Changes" comment="" />
+    <list default="true" id="cdcfda41-0726-4da8-9f58-25593d085e84" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/7.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/7.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/build/classes/java/test/gcukakao/jenkins/calculator/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build/classes/java/test/gcukakao/jenkins/calculator/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/build/reports/tests/test/classes/gcukakao.jenkins.calculator.CalculatorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build/reports/tests/test/classes/gcukakao.jenkins.calculator.CalculatorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/build/reports/tests/test/packages/gcukakao.jenkins.calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build/reports/tests/test/packages/gcukakao.jenkins.calculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/build/test-results/test/TEST-gcukakao.jenkins.calculator.CalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build/test-results/test/TEST-gcukakao.jenkins.calculator.CalculatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/test/java/gcukakao/jenkins/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/test/java/gcukakao/jenkins/calculator/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/src/main/java/gcu/backend/gcutest/GcuTestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcu-test/src/test/java/gcu/backend/gcutest/GcuTestApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/calculator">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/gatewary">
       <ProjectState />
     </projectState>
@@ -79,13 +126,13 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
     "last_directory_selection": "C:/Users/user/highweb-workspace/gcu-msa/member-service/src/main/java/gcu/backend/memberservice",
-    "last_opened_file_path": "/Users/choihyeonji/Downloads/gcu-msa/delivery--service/src/main/java/com/example/deliveryservice",
+    "last_opened_file_path": "/Users/choihyeonji/Desktop/gcu-msa",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "문제",
+    "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.3853211",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -134,7 +181,14 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.DeliveryServiceApplication">
+    <configuration name="CalculatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="calculator.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcukakao.jenkins.calculator.CalculatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeliveryServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="delivery--service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.deliveryservice.DeliveryServiceApplication" />
@@ -239,6 +293,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.CalculatorApplication" />
       <item itemvalue="Spring Boot.DeliveryServiceApplication" />
       <item itemvalue="Spring Boot.DeliveryServiceApplication (1)" />
       <item itemvalue="Spring Boot.GcuTestApplication" />
@@ -309,8 +364,17 @@
       <workItem from="1681820320689" duration="47000" />
       <workItem from="1682783108201" duration="9537000" />
       <workItem from="1682878720915" duration="30077000" />
-      <workItem from="1683007044236" duration="4308000" />
+      <workItem from="1683007044236" duration="4608000" />
+      <workItem from="1683098784310" duration="1077000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1683098286723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683098286723</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +390,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/gcu_msa$DeliveryServiceApplication.ic" NAME="DeliveryServiceApplication Coverage Results" MODIFIED="1680911192384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
