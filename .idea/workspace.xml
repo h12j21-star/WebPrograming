@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdcfda41-0726-4da8-9f58-25593d085e84" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/gatewary">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/zull-server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/zull-server">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2NjpxOxY2myRYFc2vSZHbZIhawD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JavaMethodFindUsagesOptions.isSearchForBaseMethod": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_directory_selection": "C:/Users/user/highweb-workspace/gcu-msa/member-service/src/main/java/gcu/backend/memberservice",
+    "last_opened_file_path": "/Users/choihyeonji/Downloads/gcu-msa/delivery--service/src/main/java/com/example/deliveryservice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "문제",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3853211",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "a46d2f456237bc509dd7e38ccecce2db",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gcu.backend.orderservice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/delivery--service/src/main/java/com/example/deliveryservice" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\user\highweb-workspace\gcu-msa\user-service\src\main\java\gcu\backend\userservice" />
+      <recent name="C:\Users\user\highweb-workspace\gcu-msa\order-service\src\main\java\gcu\backend\memberservice" />
+      <recent name="C:\Users\user\highweb-workspace" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.deliveryservice" />
+      <recent name="" />
+      <recent name="gcu.backend.memberservice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.deliveryservice" />
+      <recent name="gcu.backend.deliveryservice" />
+      <recent name="gcu.backend.memberservice.repository" />
+      <recent name="gcu.backend.memberservice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DeliveryServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="delivery--service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.deliveryservice.DeliveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeliveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="delivery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.deliveryservice.DeliveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.eurekaserver.EurekaServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gcu.backend.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GcuGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gcu-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.gcugateway.GcuGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GcuTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gcu-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.gcutest.GcuTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="member-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.orderservice.MemberServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.orderservice.OrderServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gcu.backend.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.productservice.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employee-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.server.ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="gcu.backend.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DeliveryServiceApplication" />
+      <item itemvalue="Spring Boot.DeliveryServiceApplication (1)" />
+      <item itemvalue="Spring Boot.GcuTestApplication" />
+      <item itemvalue="Spring Boot.ServerApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication (1)" />
+      <item itemvalue="Spring Boot.GcuGatewayApplication" />
+      <item itemvalue="Spring Boot.OrderServiceApplication" />
+      <item itemvalue="Spring Boot.MemberServiceApplication" />
+      <item itemvalue="Spring Boot.ProductServiceApplication" />
+      <item itemvalue="Spring Boot.UserServiceApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdcfda41-0726-4da8-9f58-25593d085e84" name="Changes" comment="" />
+      <created>1680187591812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680187591812</updated>
+      <workItem from="1680187592886" duration="1905000" />
+      <workItem from="1680219614376" duration="5368000" />
+      <workItem from="1680234561417" duration="4826000" />
+      <workItem from="1680239632773" duration="3446000" />
+      <workItem from="1680294998556" duration="5767000" />
+      <workItem from="1680391295146" duration="848000" />
+      <workItem from="1680427487687" duration="2417000" />
+      <workItem from="1680565286334" duration="642000" />
+      <workItem from="1680586240249" duration="23000" />
+      <workItem from="1680587915239" duration="2266000" />
+      <workItem from="1680648423178" duration="17179000" />
+      <workItem from="1680771499697" duration="9588000" />
+      <workItem from="1680821718463" duration="1745000" />
+      <workItem from="1680843293444" duration="4166000" />
+      <workItem from="1680872086563" duration="5243000" />
+      <workItem from="1680879845542" duration="2300000" />
+      <workItem from="1680885514440" duration="2885000" />
+      <workItem from="1680888476376" duration="957000" />
+      <workItem from="1680902481390" duration="10988000" />
+      <workItem from="1680914237652" duration="1382000" />
+      <workItem from="1680946541817" duration="12012000" />
+      <workItem from="1680959480619" duration="1202000" />
+      <workItem from="1680960699778" duration="362000" />
+      <workItem from="1680961075564" duration="18000" />
+      <workItem from="1680961159140" duration="44000" />
+      <workItem from="1680961239168" duration="2504000" />
+      <workItem from="1680997076831" duration="369000" />
+      <workItem from="1680997479235" duration="36000" />
+      <workItem from="1680997768487" duration="401000" />
+      <workItem from="1680998199784" duration="3060000" />
+      <workItem from="1681021876053" duration="187000" />
+      <workItem from="1681029546512" duration="866000" />
+      <workItem from="1681116802535" duration="2334000" />
+      <workItem from="1681192506462" duration="3339000" />
+      <workItem from="1681507727447" duration="1792000" />
+      <workItem from="1681771774974" duration="32000" />
+      <workItem from="1681813426330" duration="136000" />
+      <workItem from="1681813975229" duration="341000" />
+      <workItem from="1681819013135" duration="1125000" />
+      <workItem from="1681820154843" duration="60000" />
+      <workItem from="1681820320689" duration="47000" />
+      <workItem from="1682783108201" duration="9537000" />
+      <workItem from="1682878720915" duration="30077000" />
+      <workItem from="1683007044236" duration="4308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gcu_msa$DeliveryServiceApplication.ic" NAME="DeliveryServiceApplication Coverage Results" MODIFIED="1680911192384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gcu.backend.deliveryservice.*</FILTER>
+    </SUITE>
+  </component>
+</project>

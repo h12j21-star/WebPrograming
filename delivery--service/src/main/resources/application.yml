@@ -1,0 +1,23 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: deliveryservice
+
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/gcumall?createDatabaseIfNotExist=true&useUnicode=true&charaterEncoding=UTF-8&characterSetResults=UTF-8&allowPublicKeyRetrieval=true&useSSL=false
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+eureka:
+  instance:
+    preferIpAddress: true
+    lease-renewal-interval-in-seconds: 30
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://127.0.0.1:8761/eureka/
+
+
